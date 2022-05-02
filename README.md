@@ -7,6 +7,11 @@ Remove all the clutter from your specified directory all this from your terminal
 
 Declutter looks into all the files(excluding hidden files) provided in a given directory. Then based on extension type moves those files into relevant folders.
 
+## Pre-requisite:
+```
+        Install go
+        https://go.dev/doc/install
+```
 ## Usage:
 
 ```
